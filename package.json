@@ -1,0 +1,29 @@
+{
+  "name": "jth-nhan",
+  "version": "1.0.0",
+  "description": "Một thư viện giúp bạn nhân 2 số. Đơn giản, dễ dùng và nhẹ",
+  "main": "nhan.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jangthanhhai/jth-nhan.git"
+  },
+  "dependencies": {
+    "is-zero": "^1.0.0",
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0"
+  },
+  "keywords": [
+    "phepnhan",
+    "nhan",
+    "nhanhaiso"
+  ],
+  "author": "JTH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jangthanhhai/jth-nhan/issues"
+  },
+  "homepage": "https://github.com/jangthanhhai/jth-nhan#readme"
+}
