@@ -1,6 +1,6 @@
 {
   "name": "jth-nhan",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Một thư viện giúp bạn nhân 2 số. Đơn giản, dễ dùng và nhẹ",
   "main": "nhan.js",
   "scripts": {
@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "is-zero": "^1.0.0",
+    "conghaiso": "^1.0.0",
     "are-arrays": "^1.0.0",
     "are-objects": "^1.0.0"
   },
